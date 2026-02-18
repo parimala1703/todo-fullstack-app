@@ -1,0 +1,7 @@
+node_modules
+Frontend/todo-frontend/node_modules
+target
+.idea
+*.iml
+.env
+build
